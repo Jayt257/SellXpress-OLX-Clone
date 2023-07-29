@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OLX Clone App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="not_have_account_register">Not have Account? <b>Register</b></string>
+    <string name="already_have_account_login">Already have account? <b>Login</b></string>
+    <string name="didn_t_receive_otp_resend">Didn\'t Receive OTP? <b>Resend</b></string>
+    <string name="forgot_password_recover">Forgot Password? <b>Recover</b></string>
+    <string name="price_symbol">$</string>
+    <string name="back">back</string>
+
+
+</resources>

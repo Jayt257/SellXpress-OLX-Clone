@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Category"
+    android:padding="16dp"
+    style="?attr/textAppearanceSubtitle1"
+    android:ellipsize="end"
+    android:maxLines="1"
+    android:drawablePadding="10dp"
+    android:drawableEnd="@drawable/ic_next_gray"
+    android:drawableStart="@drawable/ic_category_white"
+    android:drawableTint="@color/colorGray01"/>
